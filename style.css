@@ -888,7 +888,9 @@ color: #000;
   .home-content p {
     font-size: 18px;
   }
-
+.home-imgHover{
+    display: none;
+  }
   .about {
     grid-template-columns: 1fr;
     gap: 2rem;
